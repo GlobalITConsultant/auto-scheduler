@@ -1,0 +1,9 @@
+{
+    "dev": {
+        "app_function": "app.main.app",
+        "profile_name": "default",
+        "project_name": "auto-scheduler",
+        "runtime": "python3.10",
+        "s3_bucket": "your-s3-bucket-name"
+    }
+}
